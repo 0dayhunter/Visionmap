@@ -1,4 +1,4 @@
-# VisionMap [OSINT Mindmap]
+# VisionMap an OSINT Mindmap
 
 [https://0dayhunter.github.io/Visionmap/]
 
